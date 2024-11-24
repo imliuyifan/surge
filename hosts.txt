@@ -2672,6 +2672,7 @@ pickanewdeliverytime.com
 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 tpsc-video.doubleverify.com
+beacons.digital.disneyadvertising.com
 a.jsrdn.com
 atom.warnermedia.com
 d9esmwyn3ffr1.cloudfront.net
